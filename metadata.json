@@ -1,0 +1,7 @@
+{
+  "name": "StudentAid: Secure Verified Network",
+  "description": "Production-grade peer support platform with Firebase Authentication and institutional verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
